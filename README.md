@@ -22,7 +22,7 @@
 <table width="100%"> 
 <tr> 
   <td align='center' width="200"> 
-    <img src="https://drive.google.com/file/d/18NWk-qpw4jZkdzEOF77_-PnTEZE0mxyW/view" width="100"> 
+    <img src="https://drive.google.com/file/d/18NWk-qpw4jZkdzEOF77_-PnTEZE0mxyW/view?usp=sharing" width="100"> 
   </td> 
   <td align='center' width="200"> 
     <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media" width="100"> 
