@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/adnan-ansari-b5b6416b/">
     <img src="https://img.shields.io/badge/-Adnan%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a> 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:26adnanansari@gmail.com">
     <img src="https://img.shields.io/badge/-your.email@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a> 
   <a href="https://www.instagram.com/your_instagram/">
