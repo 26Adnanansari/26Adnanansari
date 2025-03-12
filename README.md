@@ -22,36 +22,43 @@
 <table width="100%"> 
 <tr> 
   <td align='center' width="200"> 
-    <img src="https://drive.google.com/file/d/18NWk-qpw4jZkdzEOF77_-PnTEZE0mxyW/view?usp=sharing" width="100"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-01.jpg" width="100"> 
   </td> 
   <td align='center' width="200"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media" width="100"> 
+   <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-02.jpg" width="100">  
   </td> 
   <td align='center' width="200"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="100"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-03.jpg" width="100"> 
   </td> 
   <td align='center' width="200"> 
-    <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-04.jpg" width="100"> 
   </td> 
   <td align='center' width="200"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-05.jpg" width="100"> 
   </td> 
+
 </tr> 
 <tr> 
   <td align='center' width="200"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FMicrosoft-Azure-logo.jpg?alt=media" width="100"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-06.jpg" width="100"> 
   </td> 
   <td align='center' width="200"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media" width="100"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-07.jpg" width="100"> 
   </td> 
   <td align='center' width="200"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media" width="100"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-08.jpg" width="100"> 
   </td> 
   <td align='center' width="200"> 
-    <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FPinecone-Primary-Logo-White.png?alt=media" width="100"> 
+   <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-09.jpg" width="100"> 
   </td> 
   <td align='center' width="200"> 
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-10.jpg" width="100"> 
+  </td> 
+  <td align='center' width="200"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-11.jpg" width="100"> 
+  </td> 
+  <td align='center' width="200"> 
+    <img src="https://raw.githubusercontent.com/26Adnanansari/26Adnanansari/main/logo%20imges/logo-12.jpg" width="100"> 
   </td> 
 </tr> 
 </table>
