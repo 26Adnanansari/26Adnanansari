@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/-Adnan%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a> 
   <a href="mailto:26adnanansari@gmail.com">
-    <img src="https://img.shields.io/badge/-your.email@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-26adnanansari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a> 
   <a href="https://www.instagram.com/your_instagram/">
     <img src="https://img.shields.io/badge/-@your_instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
