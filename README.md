@@ -70,9 +70,9 @@
 
 ### 📨 Connect With Me:
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/adnan-ansari-b5b6416b/">
-    <img src="https://img.shields.io/badge/-Adnan%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a> 
+<a href="https://www.linkedin.com/in/adnan-ansari-b5b6416b/">
+    <img src="https://img.shields.io/badge/-Adnan%20Ansari-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a> 
   <a href="mailto:26adnanansari@gmail.com">
     <img src="https://img.shields.io/badge/-26adnanansari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a> 
