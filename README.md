@@ -76,7 +76,7 @@
   <a href="mailto:pakaiverse@gmail.com">
     <img src="https://img.shields.io/badge/-pakaiverse@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a> 
-  <a href="https://www.facebook.com/26adnanAnsari">
+  <a href="https://www.facebook.com/madnanpakaiverse">
     <img src="https://img.shields.io/badge/-@madnanpakaiverse-1877F2?style=flat&logo=Facebook&logoColor=white"/>
 </a>
 </p>
